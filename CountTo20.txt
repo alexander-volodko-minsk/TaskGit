@@ -1,6 +1,6 @@
 Task : count to 20 
 
-Process : 
+What is going on  : 
 1
 2
 3
@@ -17,3 +17,4 @@ Process :
 14
 15
 16
+17
